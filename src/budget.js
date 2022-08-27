@@ -14,19 +14,19 @@ class Budget extends React.Component {
             income: 0,
             items: [
                 {
-                    kategori: "giyim",
+                    kategori: "clothes",
                     value: 500,
                     urun: "gömlek",
                     date: "2022-09-02"
                 },
                 {
-                    kategori: "gida",
+                    kategori: "Market",
                     value: 1000,
                     urun: "dondurma",
                     date: "2022-09-18"
                 },
                 {
-                    kategori: "kira",
+                    kategori: "rent",
                     value: 2300,
                     urun: "ev",
                     date: "2022-09-07"

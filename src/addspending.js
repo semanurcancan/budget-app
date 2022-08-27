@@ -25,11 +25,11 @@ const AddSpendingForm = (props) => {
 
                 <label>
                     <select className="rounded-md border-1 focus:outline-none shadow-xl bg-white " ref={selectOption}>
-                        <option value="giyim" >clothes</option>
-                        <option value="kira">rent</option>
-                        <option value="fatura">invoice</option>
-                        <option value="market">Market</option>
-                        <option value="eglence">entertainment spending</option>
+                        <option value="clothes" >clothes</option>
+                        <option value="rent">rent</option>
+                        <option value="invoice">invoice</option>
+                        <option value="Market">Market</option>
+                        <option value="entertainment">entertainment spending</option>
                     </select>
                 </label>
                 <button className=" bg-transparent hover:bg-gray-200 text-green-300 font-semibold hover:text-white py-2 px-4 border border-green-500 hover:border-transparent rounded" type="button" value="ekle" onClick={createItem}>ADD</button>
