@@ -22,7 +22,7 @@ react-minimal-pia-chart
 ```
 
 #### GAME LINK
-[XOX GAME](https://xox-game-nu.vercel.app/)
+[BUDGET APP](https://budget-app-gray.vercel.app/)
 
 
 
