@@ -1,5 +1,5 @@
 ### XOX GAME
-![xoxgif](https://github.com/semanurcancan/XOX-GAME/blob/main/xoxGAME.gif)
+![budgetgif](https://github.com/semanurcancan/budget-app/blob/master/budget.gif)
 
 ## Decription
 - users can follow the income and expense balance with this application
