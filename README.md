@@ -1,7 +1,7 @@
 ### XOX GAME
 ![xoxgif](https://github.com/semanurcancan/XOX-GAME/blob/main/xoxGAME.gif)
 
-## Decripcion
+## Decription
 - users can follow the income and expense balance with this application
 - In order to see the balance, a value must be entered in the income section.
 - users can write their expenses by date and categories.
